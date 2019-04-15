@@ -1,0 +1,33 @@
+.column1 {
+  width: 300px;
+  float: left;
+  border: 4px solid blue;
+  padding: 8px;
+}
+
+.column1 p{
+  color: green;
+}
+.column2 {
+  width: 300px;
+  float: left;
+  border: 4px solid blue;
+  padding: 8px;
+}
+
+.column2 p{
+  color: green;
+}
+.column2 p a {
+  color: purple;
+}
+
+.column3 {
+  width: 300px;
+  float: left;
+  border: 4px solid blue;
+  padding: 8px;
+}
+.column3 p{
+  color: green;
+}
